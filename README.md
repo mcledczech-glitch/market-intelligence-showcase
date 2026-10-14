@@ -2,6 +2,8 @@
 
 # MARKET INTELLIGENCE
 
+![MARKET INTELLIGENCE PREVIEW](https://raw.githubusercontent.com/mcledczech-glitch/market-intelligence-showcase/81800e08757a5dd5762956ab18233d5b21f9977f/Sn%C3%ADmek%20obrazovky%202026-10-14%20083313.png))
+
 https://market-intelligence-sage-eight.vercel.app/login
 
 ### AI-Assisted Financial Analytics Platform
