@@ -1,5 +1,7 @@
 # Market Intelligence
 
+https://market-intelligence-sage-eight.vercel.app/login
+
 ### AI-Assisted Financial Analytics Platform
 
 **Market Intelligence** is a personal web application project focused on financial-market monitoring, investment analytics, data integration, and clear, responsive dashboards. It combines product design, modern web development, external data sources, and **AI-assisted development (vibe coding)**.
