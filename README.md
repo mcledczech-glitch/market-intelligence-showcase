@@ -2,6 +2,8 @@
 
 # MARKET INTELLIGENCE
 
+https://market-intelligence-sage-eight.vercel.app/login
+
 ### AI-Assisted Financial Analytics Platform
 
 **Finanční analytika · Datové integrace · Webová aplikace · Mobilní PWA**
